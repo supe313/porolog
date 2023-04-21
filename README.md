@@ -4,7 +4,9 @@ This is an artificial intelligence like gpt chat, which produces many diverse re
 The learned and saved databases are saved and maintained and updated in the learn.P file.
 join our discord channel :
 https://discord.gg/yMugmymnYz
-
+ا
+here is the download link:
+https://mega.nz/file/X8sx2ayI#MncltjIyWcqFdbH9m5NUBy92d_p3vFFfwIqNW9-Ng-4
 ![Captrtytytytyure](https://user-images.githubusercontent.com/117861084/233664202-1ac350f3-1683-4c39-9579-0f0b7ace4f8f.PNG)
 
 ![Capggfgture](https://user-images.githubusercontent.com/117861084/233668792-c7577f71-6d0c-40df-b066-706929380c7b.PNG)
